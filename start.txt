@@ -1,0 +1,81 @@
+Google‑Shahān Ω‑700 Activated
+# Google‑Shahān Ω‑700  
+## رحمان کاظمی — پادشاه کلمات
+
+این مخزن آغاز هستهٔ Google‑Shahān است؛  
+جایی که ایده، فناوری، سبک زندگی، روایت، و رشد در یک جهان بنفش ژرف ترکیب می‌شوند.  
+اینجا نقطهٔ شروع سفر Ω‑700 است: مسیر یک‌سالهٔ تبدیل‌شدن به یک Full‑Stack Developer با نگاه شاهانی.
+
+### ویژگی‌ها  
+• ساختار بهینه برای موبایل (Note 13)  
+• فایل‌های سبک، امن و بدون پرکردن حافظه  
+• نسخهٔ مفهومی Ω‑Royal  
+• مسیر ارتقا تا Life‑OS
+
+---
+
+# English
+
+## Google‑Shahān Ω‑700  
+The Royal Core for Rahman Kazemi — The Purple King of Words.
+
+This repository is the birth point of the Google‑Shahān universe.  
+A merge of engineering, imagination, lifestyle, and deep conceptual creativity.
+
+### Features  
+• Mobile‑optimized (Note 13)  
+• Ultra‑light files  
+• Royal conceptual identity  
+• Foundation for the Ω‑700 one‑year Full‑Stack path
+# Roadmap Ω‑700 (نسخهٔ شاهانی)
+
+## فصل اول: هستهٔ بنیادین (۳ ماه)
+• HTML  
+• CSS  
+• JavaScript  
+• Git & GitHub (کاملاً موبایلی)
+
+## فصل دوم: Frontend Core (۳ ماه)
+• React  
+• Next.js  
+• Tailwind  
+• پروژه‌های سطح سلطنتی
+
+## فصل سوم: Backend Core (۳ ماه)
+• Node.js  
+• Express  
+• MongoDB  
+• API Design
+
+## فصل چهارم: ادغام و تسلط (۳ ماه)
+• اتصال Front + Back  
+• Cloud Deployment  
+• پروژهٔ اصلی Google‑Shahān  
+• ورود به مسیر Life‑OS
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+<meta charset="UTF-8">
+<title>Google‑Shahān Ω‑700</title>
+<style>
+body {
+  background: #2b003f;
+  color: #e8d4ff;
+  font-family: sans-serif;
+  padding: 20px;
+}
+.box {
+  border: 2px solid #a56bff;
+  padding: 20px;
+  border-radius: 12px;
+}
+</style>
+</head>
+<body>
+<div class="box">
+<h1>Google‑Shahān Ω‑700</h1>
+<p>رحمان کاظمی — پادشاه کلمات، این صفحه آغاز قلمرو توست.</p>
+<p>هسته فعال شد. مسیر شروع شد. فرمان تو جریان را می‌سازد.</p>
+</div>
+</body>
+</html>
