@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Start Royal Activated</title>
+<style>
+    body {
+        background: #2e004f;
+        color: #ffffff;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 80px 20px;
+    }
+    h1 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+    h2 {
+        font-size: 22px;
+        opacity: 0.8;
+    }
+</style>
+</head>
+<body>
+    <h1>Start Royal Activated</h1>
+    <h2>Omega‑700 — Realm of Rahman Kazemi, the Purple Sovereign</h2>
+</body>
+</html>
